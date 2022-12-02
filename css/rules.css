@@ -1,0 +1,35 @@
+body {
+    background-color: #D291BC;
+    font-family: Century;
+    color: black;
+    overflow: hidden;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.rules {
+    background-color: #7B1F30;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 20%;
+}
+
+.center, rules {
+    margin: auto;
+    width: 80%;
+    padding: 1em;
+    text-align: center;
+    padding: 1em;
+}
+
+#audio {
+    display: none;
+}
